@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Silveray62
+- 👋 Hi, I’m @Abdullah
 - 👀 I’m interested in Software Engineering and Data Science
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on anything tech
