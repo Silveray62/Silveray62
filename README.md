@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @Abdullah
-- 👀 I’m interested in Software Engineering and Data Science
+- 👋 Hi, I’m Abdullah
+- 👀 I’m a Software Engineer and a Data Scientist
 - 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on anything tech
-- 📫 How to reach me raykayode185@gmail.com
+- 📫 How to reach me raykayode185@gmail.com, +2347018520362
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
 
